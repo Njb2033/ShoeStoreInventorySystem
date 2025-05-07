@@ -1,0 +1,45 @@
+Country,Code,Product,Cost,Quantity
+Germany,SKU10101,Ultra Boost,2800,18
+Japan,SKU20202,Gel-Lyte III,2200,35
+Mexico,SKU30303,Ignite EvoKNIT,1750,12
+Italy,SKU40404,RS-X3,1990,21
+Norway,SKU50505,Zig Kinetica,2450,27
+Thailand,SKU60606,Wave Rider 25,2100,8
+Spain,SKU70707,Cloudswift,3250,14
+New Zealand,SKU80808,Fresh Foam 1080,2590,11
+Greece,SKU90909,Speedcross 5,1890,22
+Turkey,SKU11110,X_PLRBOOST,3000,17
+Portugal,SKU12121,Terrex Free Hiker,3380,9
+Poland,SKU13131,Future Rider,1420,13
+Malaysia,SKU14141,Revolution 6,950,33
+Finland,SKU15151,Torsion X,2800,6
+Argentina,SKU16161,ZoomX Invincible,3620,7
+Belgium,SKU17171,React Miler,1985,16
+Chile,SKU18181,Wave Daichi,2780,10
+Denmark,SKU19191,Ghost 14,2320,19
+Indonesia,SKU20220,Rebel V2,2550,4
+Sweden,SKU21212,Court Legacy,1450,25
+Czech Republic,SKU22222,Classic Leather,1999,20
+Netherlands,SKU23232,Supernova+,2170,13
+Switzerland,SKU24242,Edge Lux 4,1860,5
+Country,Code,Product,Cost,Quantity
+United States,SKU50001,Air Max Plus,2500,22
+United States,SKU50002,Jordan 6 Rings,3100,15
+United States,SKU50003,Kyrie Infinity,2750,18
+United States,SKU50004,LeBron Witness 7,2900,25
+United States,SKU50005,Zoom Freak 4,2650,20
+United States,SKU50006,Air Vapormax 2023,3450,10
+United States,SKU50007,React Infinity Run 3,2300,17
+United States,SKU50008,Air Max Scorpion,3600,8
+United States,SKU50009,Court Vision Low,1800,27
+United States,SKU50010,Air Max Tailwind IV,2400,12
+United States,SKU50011,FlyEase Go,1950,14
+United States,SKU50012,Metcon Turbo 2,3100,9
+United States,SKU50013,Air Force 1 Shadow,2200,19
+United States,SKU50014,Blazer Mid '77 Vintage,2050,21
+United States,SKU50015,Dunk Low Retro SE,2750,13
+United States,SKU50016,InfinityRN 4 GORE-TEX,3300,5
+United States,SKU50017,Space Hippie 04,2980,11
+United States,SKU50018,Jordan Delta 3,3150,6
+United States,SKU50019,Air Max 270 React,2650,16
+United States,SKU50020,Zoom Structure 24,2500,18
